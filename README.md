@@ -1,5 +1,5 @@
 ## Hi there I'm Nahja 👋
-
+Here are a few projects I've worked on!
 <!--
 **nahjac/nahjac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
