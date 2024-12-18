@@ -1,5 +1,12 @@
-## Hi there I'm Nahja 👋
-Here are a few projects I've worked on!
+# Hi there I'm Nahja 👋
+Here are some projects I've worked on!
+## Cloud/Network Projects:
++ **osTicket (Help Desk Ticketing System)**
+  + [osTicket: Prerequisites and Installation](INSERT LINK URL)
+  + [osTicket: Post-Installation Configuration](INSERT LINK URL)
+  + [osTicket: Ticket Lifecycle Examples](INSERT LINK URL)
+## Let's Connect:
+LinkedIn url
 <!--
 **nahjac/nahjac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
