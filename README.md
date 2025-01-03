@@ -2,7 +2,7 @@
 Here are some projects I've worked on!
 ## Cloud/Network Projects:
 + **Networks in Azure**
-  + [Deploying Web Server within Azure VM] (INSERT LINK)
+  + [Deploying Web Server within Azure VM] (https://github.com/nahjac/Deploying-Web-Server-within-Azure-VM)
 + **osTicket (Help Desk Ticketing System)**
   + [osTicket: Prerequisites and Installation](INSERT LINK URL to repository)
   + [osTicket: Post-Installation Configuration](INSERT LINK URL)
