@@ -1,7 +1,7 @@
 # Hi there I'm Nahja 👋
 Here are some projects I've worked on!
 ## Cloud/Network Projects:
-+**Networks in Azure**
++ **Networks in Azure**
   + [Deploying Web Server within Azure VM] (INSERT LINK)
 + **osTicket (Help Desk Ticketing System)**
   + [osTicket: Prerequisites and Installation](INSERT LINK URL to repository)
