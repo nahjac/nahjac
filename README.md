@@ -1,4 +1,4 @@
-# Hi there I'm Nahja, an [IT Professional](https://www.linkedin.com/in/nahja-chesney-a84b57181/) :grin::floppy_disk:
+# Hi there I'm Nahja, an [IT Professional](https://www.linkedin.com/in/nahja-chesney-a84b57181/) :floppy_disk::grin:
 Here are some projects I've worked on!
 ## Cloud/Network Projects:
 + **Networks in Azure**
