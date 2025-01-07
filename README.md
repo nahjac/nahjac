@@ -5,7 +5,7 @@ Here are some projects I've worked on!
   + [Deploying Web Server within Azure VM](https://github.com/nahjac/Deploying-Web-Server-within-Azure-VM)
   + [Configuring On-Premises Active Directory in Azure VM](https://github.com/nahjac/Configuring-On-Premises-Active-Directory-within-Azure-VM)
 + **osTicket (Help Desk Ticketing System)**
-  + [osTicket: Prerequisites and Installation](INSERT LINK URL to repository)
+  + [osTicket: Prerequisites and Installation](https://github.com/nahjac/osTicket-Prerequisites-and-Installation)
   + [osTicket: Post-Installation Configuration](INSERT LINK URL)
   + [osTicket: Ticket Lifecycle Examples](INSERT LINK URL)
 ## Let's Connect:
