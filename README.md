@@ -7,7 +7,7 @@ Here are some projects I've worked on!
 + **osTicket (Help Desk Ticketing System)**
   + [osTicket: Prerequisites and Installation](https://github.com/nahjac/osTicket-Prerequisites-and-Installation)
   + [osTicket: Post-Installation Configuration](https://github.com/nahjac/osTicket-Post-Installation-Configuration)
-  + [osTicket: Ticket Lifecycle Examples](INSERT LINK URL)
+  + [osTicket: Ticket Lifecycle Examples](https://github.com/nahjac/osTicket-Ticket-Lifecycle-Examples)
 ## Let's Connect:
 LinkedIn url
 <!--
