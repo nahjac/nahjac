@@ -6,7 +6,7 @@ Here are some projects I've worked on!
   + [Configuring On-Premises Active Directory in Azure VM](https://github.com/nahjac/Configuring-On-Premises-Active-Directory-within-Azure-VM)
 + **osTicket (Help Desk Ticketing System)**
   + [osTicket: Prerequisites and Installation](https://github.com/nahjac/osTicket-Prerequisites-and-Installation)
-  + [osTicket: Post-Installation Configuration](INSERT LINK URL)
+  + [osTicket: Post-Installation Configuration](https://github.com/nahjac/osTicket-Post-Installation-Configuration)
   + [osTicket: Ticket Lifecycle Examples](INSERT LINK URL)
 ## Let's Connect:
 LinkedIn url
