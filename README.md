@@ -1,4 +1,4 @@
-# Hi there I'm Nahja, an [IT Professional](https://www.linkedin.com/in/nahja-chesney-a84b57181/) :grin::computer:
+# Hi there I'm Nahja, an [IT Professional](https://www.linkedin.com/in/nahja-chesney-a84b57181/) :computer::grin:
 Here are some projects I've worked on!
 ## Cloud/Network Projects:
 + **Networks in Azure**
@@ -9,7 +9,7 @@ Here are some projects I've worked on!
   + [osTicket: Post-Installation Configuration](https://github.com/nahjac/osTicket-Post-Installation-Configuration)
   + [osTicket: Ticket Lifecycle Examples](https://github.com/nahjac/osTicket-Ticket-Lifecycle-Examples)
 ## Let's Connect:
-[![Linkedin](https://i.sstatic.net/gVE0j.png)](https://www.linkedin.com/in/nahja-chesney-a84b57181/)
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nahja-chesney-a84b57181/)
 <!--
 **nahjac/nahjac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
