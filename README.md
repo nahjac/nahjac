@@ -1,6 +1,6 @@
 # Hi there I'm Nahja, an [IT Professional](https://www.linkedin.com/in/nahja-chesney-a84b57181/) :computer::grin:
 Here are some projects I've worked on!
-## Cloud/Network Projects:
+## ☁️🌐 Cloud/Network Projects:
 + **Networks in Azure**
   + [Deploying Web Server within Azure VM](https://github.com/nahjac/Deploying-Web-Server-within-Azure-VM)
   + [Configuring On-Premises Active Directory in Azure VM](https://github.com/nahjac/Configuring-On-Premises-Active-Directory-within-Azure-VM)
